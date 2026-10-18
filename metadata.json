@@ -1,0 +1,6 @@
+{
+  "name": "Harare CBD 3D First-Person Explorer",
+  "description": "Explore a detailed 3D procedural reproduction of the Harare Central Business District featuring iconic modernist towers, Jacaranda avenues, and hidden heritage artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
